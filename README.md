@@ -1,6 +1,8 @@
 # Replication Materials for *Fishery Collapse Revisited*
+
 authors: Qingran Li, Martin Smith
-last update on Aug 1, 2020
+
+last update on August 1, 2020
 
 
 __OA_sim.m__  simulates the trajectories of stock, effort, and harvest leading to the open access equilibrium with a logistic growth function. Outputs from this function are
