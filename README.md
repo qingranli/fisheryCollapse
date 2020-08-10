@@ -1,6 +1,6 @@
 # Replication Materials for *Fishery Collapse Revisited*
 
-authors: Qingran Li, Martin Smith
+authors: Qingran Li, Martin D. Smith
 
 last update on August 1, 2020
 
